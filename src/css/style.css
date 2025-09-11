@@ -28,7 +28,8 @@ h1 {
 }
 
 p{
-font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 19px;}
 
 body {
     background-color: #2e2c2cf8;
@@ -163,9 +164,6 @@ height: 100%; filter: brightness(0.7);}
 height: 100%;  filter: brightness(0.6);}
 
 .terceira_img{width: 100%;
-height: 100%; filter: brightness(0.6);}
-
-.quarta_img{width: 100%;
 height: 100%; filter: brightness(0.6);}
 
 .p_servicos{background-color:  rgb(88, 187, 154);}
