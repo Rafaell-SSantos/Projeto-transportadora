@@ -210,6 +210,10 @@ a:hover {
         font-size: 19px;
     }
 
+    #sobre_nos{
+        scroll-margin-top: 35px;
+    }
+
 }
 
 
@@ -233,6 +237,7 @@ a:hover {
         font-size: 19px;
     }
 
+    #sobre_nos{scroll-margin-top: 35px;} 
 }
 
 
